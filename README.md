@@ -29,8 +29,9 @@ To use the solutions in this repository, follow these steps:
 Clone the repository:
 
 bash
-
+<code>
 git clone https://github.com/yourusername/leetcode-problem-solving.git
+</code>
 
 Navigate to the problem directory of interest:
 
